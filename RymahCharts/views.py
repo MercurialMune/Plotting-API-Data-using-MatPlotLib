@@ -1,6 +1,6 @@
 import requests
 from django.shortcuts import render
-import matplotlib.pyplot as plt, mpld3
+import matplotlib.pyplot as plt
 import numpy as np
 
 
@@ -54,5 +54,5 @@ def home(request):
     plt.legend()
 
     plt.tight_layout()
-    plt.show()
+    # plt.show()
     return render(request, 'index.html', locals())
