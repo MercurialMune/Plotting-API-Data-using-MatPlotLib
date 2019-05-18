@@ -2,7 +2,7 @@
 A web application that uses a MatPlotLib and Django integration to plot data from a JSON API response. Undoubtedly a small project, yet highly scalable. 
 
 ## Specifications
-The project was generated via Ona API from Ona Data. The exact API endpont was sourced from [here](https://api.ona.io/api/v1/data/161444). In analyzing and plotting the data, no claim has been made that the statistical logic was flawless in making the conclusions that the graph made. Nevertheless, the graph is a practical and perfect interpretation of the data chosen to represent the entire JSON dataset. That being said, the project has assisted with API data visualization. It is however in a young satge since coming up with the graph was not as automated as the project ultimately aims.
+The project was generated via Ona API from Ona Data. The exact API endpont was sourced from [here](https://api.ona.io/api/v1/data/161444). In analyzing and plotting the data, no claim has been made that the statistical logic used to choose the data to plot was flawless in making the conclusions that the graph made. Nevertheless, the graph is a practical and perfect interpretation of the data that was settled on to represent the entire JSON dataset. That being said, the project has assisted with API data visualization. It is however at a young stage since coming up with the graph was not as automated as the project ultimately aims it to be.
 
 ## Prerequisites
 
