@@ -44,6 +44,10 @@ git clone https://github.com/MercurialMune/Plotting-API-Data-using-MatPlotLib.gi
 
 Alternatively, you could email the main developer at munenecyp@gmail.com with ideas on how this project could be more effective, efficient or beneficial.
 
+## Further Exploration
+
+The current project is a boiler plate for a further exploration. This will be the automation of API data visualization. 
+
 ## Versioning
 GIT and GitHub
 
